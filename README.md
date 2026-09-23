@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Parth Agrawal 👋
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Building 2D Games 🎮 in Godot and Programs in Python.
@@ -13,7 +13,6 @@
 <!-- Project 1 -->
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=radial&show_owner=true" alt="Repository Card" />
   </a>
 </p>
 
