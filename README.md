@@ -1,13 +1,10 @@
 # Hi there, I'm [Your Name] 👋
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** [Your main project or topic]
-- 🌱 **Currently learning:** [Technology, framework, or language]
-- 👯 **Looking to collaborate on:** [Open source projects, ideas, etc.]
-- 🤔 **Looking for help with:** [Area you want advice/help in]
-- 💬 **Ask me about:** [Topics you know well, e.g., React, Python, Web Dev]
-- 📬 **How to reach me:** [Your Email / LinkedIn]
-- ⚡ **Fun fact:** [Share something fun or unique about yourself!]
+- 🔭 **Currently working on:** Building 2D Games 🎮 in Godot and Programs in Python.
+- 🌱 **Currently learning:** Python, Gamedev in Godot and Roblox Studio.
+- 📬 **How to reach me:** ✉ parthagraal2412@gmail.com 
+- ⚡ **Fun fact:** My First Programming Language was officialy Building code blocks and First Game Engine is Scratch. That's Funny Right 😂
 
 ---
 
