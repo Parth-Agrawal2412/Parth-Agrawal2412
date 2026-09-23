@@ -54,6 +54,19 @@
 
 ---
 
+### 🎓 Special Thanks & Acknowledgments
+
+A huge thank you to everyone who has guided, inspired, and supported me along my learning journey:
+
+- 👨‍🏫 **To My Teachers & Professors:** Thank you for sharing your knowledge, sparking my curiosity, and building the foundation of my technical skills.
+- 👥 **To My Mentors & Peers:** Gratitude to all my classmates, mentors, and open-source contributors who offered advice, code reviews, and constant encouragement.
+- 💡 **To Community & Online Educators:** Thanks to the amazing creators, tutorial authors, and developers in the open-source community whose resources continue to make self-learning possible.
+
+> *"If I have seen further, it is by standing on the shoulders of Giants."* — Isaac Newton
+
+---
+
+
 ### 📊 GitHub Stats
 
 <div align="center">
