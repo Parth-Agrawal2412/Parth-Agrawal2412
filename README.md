@@ -11,6 +11,32 @@
 
 ---
 
+### 📌 Featured Repositories
+
+<!-- Project 1 -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=radial&show_owner=true" alt="Repository Card" />
+  </a>
+</p>
+
+* **[Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**: A brief 1-2 sentence description of what this repository does and why it's cool.
+  * *Tech Stack:* `React`, `Node.js`, `MongoDB`
+
+<br/>
+
+<!-- Project 2 -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=radial&show_owner=true" alt="Repository Card" />
+  </a>
+</p>
+
+* **[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2)**: A brief description of your second key project.
+  * *Tech Stack:* `Python`, `FastAPI`, `PostgreSQL`
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages**
