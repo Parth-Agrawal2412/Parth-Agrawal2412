@@ -61,8 +61,11 @@ A huge thank you to everyone who has guided, inspired, and supported me along my
 - 👨‍🏫 **To My Teachers & Professors:** Thank you for sharing your knowledge, sparking my curiosity, and building the foundation of my technical skills.
 - 👥 **To My Mentors & Peers:** Gratitude to all my classmates, mentors, and open-source contributors who offered advice, code reviews, and constant encouragement.
 - 💡 **To Community & Online Educators:** Thanks to the amazing creators, tutorial authors, and developers in the open-source community whose resources continue to make self-learning possible.
-    - 🙏 **Some Honorable Mentions**
-      ![CodeWithHarry](https://www.youtube.com/@CodeWithHarry)
+    - -- 🙏 **Some Honorable Mentions** --
+    - Learn Most Skills from *[CodeWithHarry](https://www.youtube.com/@CodeWithHarry)*
+    - Learn Python from *[Ultimate Python Course - codewithharry](https://www.youtube.com/watch?v=UrsmFxEIp5k&t=17924s)*
+    - Learn Godot Gamedev from *[Brackeys](https://www.youtube.com/@Brackeys)* and *[Heartbeast](https://www.youtube.com/@uheartbeast)*
+    - Learn Roblox Studio from *[Brawldev](https://www.youtube.com/@BrawlDevRBLX)* and Scripting from *[Roblox Beginners Scripting Tutorial - Brawldev](https://www.youtube.com/playlist?list=PLQ1Qd31Hmi3W_CGDzYOp7enyHlOuO3MtC)*
 
 > *"If I have seen further, it is by standing on the shoulders of Giants."* — Isaac Newton
 
