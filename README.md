@@ -22,11 +22,6 @@
 <br/>
 
 <!-- Project 2 -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=radial&show_owner=true" alt="Repository Card" />
-  </a>
-</p>
 
 * **[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2)**: A brief description of your second key project.
   * *Tech Stack:* `Python`, `FastAPI`, `PostgreSQL`
