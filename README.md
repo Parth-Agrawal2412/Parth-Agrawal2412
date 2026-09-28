@@ -19,9 +19,23 @@
 
 <!-- Project 2 -->
 
-* **[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2)**: A brief description of your second key project.
-  * *Tech Stack:* `Python`, `FastAPI`, `PostgreSQL`
+* **[Basic Math Tools](https://github.com/Parth-Agrawal2412/Basic_Math_Tools)**:.
+  * *Tech Stack:* `Python`
 
+
+<!-- Project 3 -->
+
+* **[Basic Data Tools](https://github.com/Parth-Agrawal2412/Basic_Data_Tools))**: .
+  * *Tech Stack:* `Python`
+
+<br/>
+
+<!-- Project 4 -->
+
+* **[Mini Programs Kit](https://github.com/Parth-Agrawal2412/Mini_Programs_Kit)**: .
+  * *Tech Stack:* `Python`
+
+<br/>
 ---
 
 ### 🛠️ Tech Stack & Tools
