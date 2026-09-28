@@ -11,13 +11,9 @@
 ### 📌 Featured Repositories
 
 <!-- Project 1 -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
-  </a>
-</p>
 
-* **[Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**: A brief 1-2 sentence description of what this repository does and why it's cool.
-  * *Tech Stack:* `React`, `Node.js`, `MongoDB`
+* **[Knight on the Platform](https://github.com/Parth-Agrawal2412/knight_on_the_platform_Source_code))**: This repository contains the source code of my game 'Knight on the Platform', which is released on itch.io. You’ll be able to play the full game on itch.io..
+  * *Tech Stack:* `Godot 4.7`, `GDscript`, `2D Game Building`
 
 <br/>
 
